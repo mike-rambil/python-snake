@@ -1,5 +1,5 @@
-# python-snake🐍
-Powered by python 🐍
+# python-snake(Powered by python 🐍)
+
 ![image](https://github.com/user-attachments/assets/7efb35ce-020c-4b92-a5c4-76040a61f3b8)
 ![image](https://github.com/user-attachments/assets/71ae9b94-7e44-4632-a059-4c463c7d09ae)
 
