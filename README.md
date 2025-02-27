@@ -5,9 +5,11 @@
 
 ## How to run it.
 
-1) Create a [venv]('https://docs.python.org/3/library/venv.html') if you prefer
-2) Run the requirements install using -> `pip install -r requirements.txt` .
-3) Run the game using `python  snake_game.py`
+1) Create a [venv](https://docs.python.org/3/library/venv.html) if you prefer.
+2) Install the required dependencies by running:  
+   `pip install -r requirements.txt`.
+3) Run the game using:  
+   `python snake_game.py`.
 
-## Checkout my portfolio
-[Micheal PB]('https://michealpb.com/')
+## Checkout my portfolio:
+[Micheal PB](https://michealpb.com/)
